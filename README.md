@@ -51,8 +51,4 @@ To develop an AI-powered game where both players (human and AI) must make predic
 - **Huzaifa Ayaz (22k-4583)**: Integrated the bonus systems and handled user interaction.
 - **Uzair Ahmed (22k-4189)**: Focused on testing, debugging, and enhancing the game visuals.
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repo/snakes-and-ladders-with-prediction.git
